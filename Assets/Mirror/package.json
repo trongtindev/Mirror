@@ -1,0 +1,27 @@
+{
+  "name": "com.mirrornetworking.mirror",
+  "version": "94.5.9",
+  "displayName": "Mirror",
+  "description": "#1 Open Source Unity Networking Library",
+  "unity": "2021.3",
+  "documentationUrl": "https://mirror-networking.com/",
+  "licensesUrl": "https://github.com/MirrorNetworking/Mirror/blob/main/LICENSE.md",
+  "license": "See LICENSE.txt file",
+  "keywords": [
+    "Mirror",
+    "Networking",
+    "Unity Networking",
+    "Bolt",
+    "Mirror",
+    "Photon",
+    "DarkRift",
+    "DedicatedServer",
+    "Fusion",
+    "Netcode"
+  ],
+  "author": {
+    "name": "MirrorNetworking",
+    "url": "https://mirror-networking.com/"
+  },
+  "dependencies": {}
+}
