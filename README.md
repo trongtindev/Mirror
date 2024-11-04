@@ -27,6 +27,12 @@ Mirror is **[stable](https://mirror-networking.gitbook.io/docs/general/tests)**,
 **Made in 🇩🇪🇺🇸🇬🇧🇸🇬🇹🇼 with ❤️**.
 
 ---
+## Install
+After Unity 2019.3.4f1, Unity 2020.1a21, which support path query parameter of git package. You can install ParrelSync by adding the following to Package Manager.
+```
+https://github.com/trongtindev/Mirror.git?path=/Assets/Mirror
+```
+
 ## Features
 
 Mirror comes with a wide variety of features to support all game genres.<br>
